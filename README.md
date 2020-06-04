@@ -26,3 +26,5 @@ E4F App:
 * http://www.nltk.org/
 * https://stanfordnlp.github.io/CoreNLP/
 * http://nlp.stanford.edu:8080/corenlp/process
+* https://kahoot.com/
+* https://www.sli.do/

@@ -17,7 +17,8 @@ E4F App:
 
 投影片：
 
-* https://bit.ly/2TKuXuE
+* [Python基礎](https://bit.ly/2TKuXuE)
+* [網頁結構及通訊協定介紹](http://bit.ly/36sEEmn)
 
 相關連結：
 
